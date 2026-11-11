@@ -2,7 +2,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Hi+there!+I'm+John" alt="Typing SVG" /></a>
 </div>
 
-<h3 align="center">I'm a computer cientist passionate on artificial inteligence, low level development, hardware and operational systems</h3>
+<h3 align="center">I'm a computer scientist passionate on artificial intelligence, low level development, hardware and operational systems</h3>
 
 <div align="center">
 
@@ -24,13 +24,12 @@
 <h2 align="center">Github Status</h2>
 
 <div align="center">
-    <img width="48%" src="https://streak-stats.vercel.app?user=akinghill&theme=react" alt="GitHub Status"
-    onerror="this.remove()"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mysterious-man01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false" height="150" alt="Most Used Languages"
-    onerror="this.remove()"/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mysterious-man01&theme=merko"
-    alt="Github Activity"
-    onerror="this.remove()"/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=mysterious-man01)
+    <picture>
+        <source media="(prefers-color-scheme: dark)"
+            srcset="assets/languages-dark.svg"/>
+        <source media="(prefers-color-scheme: light)"
+            srcset="assets/languages-light.svg"/>
+        <img src="assets/languages-dark.svg" width="100%"
+            alt="GitHub Languages" onerror="this.remove()"/>
+    </picture>
 </div>
