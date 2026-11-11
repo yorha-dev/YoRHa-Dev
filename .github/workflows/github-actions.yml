@@ -34,7 +34,7 @@ jobs:
       - name: Generate SVG
         working-directory: generator
         run: |
-          python generator.py
+          python generator.py --username yorha-dev
 
       - name: Update profile card
         run: |
