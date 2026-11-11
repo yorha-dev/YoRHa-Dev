@@ -102,37 +102,37 @@
           fill="#514F42"/>
     
             <rect x="22.000" y="112"
-                  width="425.835"
+                  width="426.141"
                   height="16"
                   fill="#777568"
                   clip-path="url(#bar-clip)"/>
             
-            <rect x="447.835" y="112"
-                  width="64.596"
+            <rect x="448.141" y="112"
+                  width="64.444"
                   height="16"
                   fill="#B98275"
                   clip-path="url(#bar-clip)"/>
             
-            <rect x="512.431" y="112"
-                  width="26.741"
+            <rect x="512.585" y="112"
+                  width="26.678"
                   height="16"
                   fill="#B8A16C"
                   clip-path="url(#bar-clip)"/>
             
-            <rect x="539.172" y="112"
-                  width="11.171"
+            <rect x="539.263" y="112"
+                  width="11.145"
                   height="16"
                   fill="#E4D38D"
                   clip-path="url(#bar-clip)"/>
             
-            <rect x="550.343" y="112"
-                  width="10.273"
+            <rect x="550.407" y="112"
+                  width="10.249"
                   height="16"
                   fill="#F0E8C9"
                   clip-path="url(#bar-clip)"/>
             
-            <rect x="560.616" y="112"
-                  width="17.384"
+            <rect x="560.656" y="112"
+                  width="17.344"
                   height="16"
                   fill="#A7A084"
                   clip-path="url(#bar-clip)"/>
@@ -146,7 +146,7 @@
               font-family="monospace"
               font-size="11">
 
-          Dart 76.59%
+          Dart 76.64%
 
         </text>
         
@@ -159,7 +159,7 @@
               font-family="monospace"
               font-size="11">
 
-          Python 11.62%
+          Python 11.59%
 
         </text>
         
@@ -172,7 +172,7 @@
               font-family="monospace"
               font-size="11">
 
-          C++ 4.81%
+          C++ 4.80%
 
         </text>
         
@@ -185,7 +185,7 @@
               font-family="monospace"
               font-size="11">
 
-          CMake 2.01%
+          CMake 2.00%
 
         </text>
         
@@ -198,7 +198,7 @@
               font-family="monospace"
               font-size="11">
 
-          C 1.85%
+          C 1.84%
 
         </text>
         
@@ -211,7 +211,7 @@
               font-family="monospace"
               font-size="11">
 
-          Other 3.13%
+          Other 3.12%
 
         </text>
         
