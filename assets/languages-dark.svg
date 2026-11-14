@@ -102,37 +102,37 @@
           fill="#514F42"/>
     
             <rect x="22.000" y="112"
-                  width="424.872"
+                  width="424.876"
                   height="16"
                   fill="#777568"
                   clip-path="url(#bar-clip)"/>
             
-            <rect x="446.872" y="112"
-                  width="65.908"
+            <rect x="446.876" y="112"
+                  width="65.906"
                   height="16"
                   fill="#B98275"
                   clip-path="url(#bar-clip)"/>
             
-            <rect x="512.780" y="112"
-                  width="26.598"
+            <rect x="512.782" y="112"
+                  width="26.597"
                   height="16"
                   fill="#B8A16C"
                   clip-path="url(#bar-clip)"/>
             
-            <rect x="539.378" y="112"
+            <rect x="539.380" y="112"
                   width="11.111"
                   height="16"
                   fill="#E4D38D"
                   clip-path="url(#bar-clip)"/>
             
-            <rect x="550.490" y="112"
+            <rect x="550.491" y="112"
                   width="10.218"
                   height="16"
                   fill="#F0E8C9"
                   clip-path="url(#bar-clip)"/>
             
-            <rect x="560.708" y="112"
-                  width="17.292"
+            <rect x="560.709" y="112"
+                  width="17.291"
                   height="16"
                   fill="#A7A084"
                   clip-path="url(#bar-clip)"/>
