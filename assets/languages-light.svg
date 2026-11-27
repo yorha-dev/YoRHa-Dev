@@ -102,37 +102,37 @@
           fill="#C6C1A9"/>
     
             <rect x="22.000" y="112"
-                  width="409.904"
+                  width="409.874"
                   height="16"
                   fill="#777568"
                   clip-path="url(#bar-clip)"/>
             
-            <rect x="431.904" y="112"
-                  width="64.284"
+            <rect x="431.874" y="112"
+                  width="64.279"
                   height="16"
                   fill="#B98275"
                   clip-path="url(#bar-clip)"/>
             
-            <rect x="496.187" y="112"
-                  width="34.968"
+            <rect x="496.153" y="112"
+                  width="35.005"
                   height="16"
                   fill="#B8A16C"
                   clip-path="url(#bar-clip)"/>
             
-            <rect x="531.155" y="112"
-                  width="19.048"
+            <rect x="531.158" y="112"
+                  width="19.046"
                   height="16"
                   fill="#E4D38D"
                   clip-path="url(#bar-clip)"/>
             
-            <rect x="550.203" y="112"
-                  width="10.385"
+            <rect x="550.205" y="112"
+                  width="10.384"
                   height="16"
                   fill="#F0E8C9"
                   clip-path="url(#bar-clip)"/>
             
-            <rect x="560.587" y="112"
-                  width="17.413"
+            <rect x="560.588" y="112"
+                  width="17.412"
                   height="16"
                   fill="#A7A084"
                   clip-path="url(#bar-clip)"/>
@@ -172,7 +172,7 @@
               font-family="monospace"
               font-size="11">
 
-          C++ 6.29%
+          C++ 6.30%
 
         </text>
         
